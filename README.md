@@ -11,7 +11,7 @@ Inicialmente, tive bastante dificuldade para entender como aplicar e manipular a
 Tinha um atributo de descrição que podia ser alterado a qualquer momento e me perguntei: *seria válido não encapsulá-lo?*  
 
 - A resposta foi **não**. Entendi que encapsular é importante para garantir a reutilização do código e permitir futuras validações, mesmo para atributos aparentemente simples.  
-- Durante meus estudos na DIO, o professor Guilherme mencionou: *"Durante as validações, é aí que a `property` brilha"*. Depois da prática, consegui compreender essa ideia na prática.  
+- Durante meus estudos na DIO, o professor Guilherme mencionou: *"Durante as validações, é aí que a `property` brilha"*. Depois da prática, consegui compreender essa ideia.
 
 ### b) Encapsulamento ao instanciar objetos  
 Outra dúvida que surgiu foi: *se eu defini construtores na classe, atribuir valores diretamente ao instanciar um objeto quebraria o encapsulamento?*  
